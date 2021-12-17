@@ -83,32 +83,32 @@ html {
     left: 0;
     height: 100%;
     width: 100%;
-    background: url(/images/nav-img-1.jpg) no-repeat;
+    background: url(images/nav-img-1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     z-index: -1;
 }
 
 .navbar a:hover:nth-child(2)~.background-image {
-    background: url(/images/nav-img-2.jpg) no-repeat;
+    background: url(images/nav-img-2.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .navbar a:hover:nth-child(3)~.background-image {
-    background: url(/images/nav-img-3.jpg) no-repeat;
+    background: url(images/nav-img-3.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .navbar a:hover:nth-child(4)~.background-image {
-    background: url(/images/nav-img-4.jpg) no-repeat;
+    background: url(images/nav-img-4.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .navbar a:hover:nth-child(5)~.background-image {
-    background: url(/images/nav-img-5.jpg) no-repeat;
+    background: url(images/nav-img-5.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
